@@ -17,26 +17,25 @@ Liberu Maintenance is open source, released under the permissive MIT license. We
 
 Welcome to Liberu Maintenance – where innovation meets reliability, and the possibilities of maintenance management are limitless. Join us on this journey to transform the way we maintain and optimize our facilities in the digital age.
 
-### Licensed under MIT, use for any personal or commercial project.
 
 ## Our Projects
 
-* https://github.com/liberusoftware/boilerplate - Boilerplate application using Laravel 11, PHP 8.3, Filament 3.2 and LiveWire 3.
-
-### Genealogy related projects
-* https://github.com/liberu-genealogy - Family tree builder website written in Laravel 11 using PHP 8.3 with Filament 3.2 and LiveWire 3.
-* https://github.com/liberu-genealogy/laravel-gedcom - GEDCOM reading and writing for Laravel.
-* https://github.com/liberu-genealogy/php-gedcom - GEDCOM reading and writing for PHP 8.3
-* https://github.com/liberu-genealogy/php-dna - DNA kit processing for PHP 8.3
-
-### Other active projects
 * https://github.com/liberu-accounting/accounting-laravel
 * https://github.com/liberu-automation/automation-laravel
+* https://github.com/liberu-billing/billing-laravel
+* https://github.com/liberusoftware/boilerplate
+* https://github.com/liberu-browser-game/browser-game-laravel
 * https://github.com/liberu-cms/cms-laravel
+* https://github.com/liberu-control-panel/control-panel-laravel
 * https://github.com/liberu-crm/crm-laravel
 * https://github.com/liberu-ecommerce/ecommerce-laravel
+* https://github.com/liberu-genealogy/genealogy-laravel
 * https://github.com/liberu-maintenance/maintenance-laravel
 * https://github.com/liberu-real-estate/real-estate-laravel
+* https://github.com/liberu-social-network/social-network-laravel
+
+### Licensed under MIT, use for any personal or commercial project.
+
 
 ## Demostration website
 <!--/h-->
